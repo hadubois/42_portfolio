@@ -8,16 +8,24 @@ This repository gonna show you how from nothing the 42 school transform you in r
 
 ### Cercle 0
 
-[Libft]
+Libft
 
 ---
 
 ### Cercle 1
 
-[Born2beroot]
+Born2beroot
 
-[ft_printf]
+ft_printf
 
-[get_next_line]
+get_next_line
 
 ---
+
+### Cercle 2
+
+push_swap
+
+so_long
+
+pipex
