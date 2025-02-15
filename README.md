@@ -2,6 +2,9 @@
 
 # 42_zero_to_hero
 
+Legend:
+>> current project
+
 
 This repository gonna show you how from nothing the 42 school transform you in real programmer.
 
@@ -28,3 +31,11 @@ push_swap
 so_long
 
 pipex
+
+---
+
+### Cercle 3
+
+>> Philosophers
+
+minishell
