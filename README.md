@@ -36,6 +36,6 @@ pipex
 
 ### Cercle 3
 
->> Philosophers
+Philosophers
 
-minishell
+>> minishell
