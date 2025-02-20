@@ -30,7 +30,6 @@ void	*routine(void *arg)
 		print_logs(philo, SLEEP);
 		ft_usleep(philo->data->time_to_sleep, philo->data);
 		print_logs(philo, THINK);
-		ft_usleep(1, philo->data);
 	}
 	return (NULL);
 }
